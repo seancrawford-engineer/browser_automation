@@ -1,1 +1,0 @@
-#Apply Page Object Model to the full Trial of Stones solutions
